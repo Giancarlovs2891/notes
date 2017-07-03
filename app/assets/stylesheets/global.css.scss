@@ -77,6 +77,9 @@ header {
 			display: inline-block;
 			width: 10rem;
 			float: left;
+			img {
+				width: 100%;
+			}
 		}
 		nav {
 			float: right;
