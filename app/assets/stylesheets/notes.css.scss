@@ -47,7 +47,7 @@
 			@include bold_font;
 			background: transparent;
 			&:hover {
-				background-color: #33CD99;
+				background-color: $green;
 		    color: #fff;
 		    border: 5px solid #36bb8e;
 			}
